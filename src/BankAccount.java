@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class BankAccount {
     private String AccountNumber;
     private double Balance;
-
+    
     public BankAccount(String AccountNumber) {
         this.AccountNumber = AccountNumber;;
     }
